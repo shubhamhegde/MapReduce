@@ -1,0 +1,4 @@
+This file for useful development resources 
+
+Install MPI for use in WSL (Windows Subsystem for Linux) and VSCode.
+https://amithkk.medium.com/setting-up-visual-studio-code-and-wsl-for-mpi-develoment-8df55758a31c
